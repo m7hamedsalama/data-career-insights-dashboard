@@ -42,7 +42,8 @@ If you're passionate about storytelling with data or looking to build something 
 🔗 **Live dashboard demo**: *[https://github.com/m7hamedsalama/data-career-insights-dashboard]*  
   
 🧠 **Let's connect** on [LinkedIn](https://www.linkedin.com/in/mohammed-salama-858038284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 🧠 **Let's connect** on [Email] (mohamedsalama.com77@gmail.com)
 ---
 
-**#PowerBI #DataAnalytics #Dashboard #OpenSource #CareerInsights #DAX #DataViz #GitHubProjects**
+**#PowerBI #DataAnalytics #Dashboard #OpenSource #CareerInsights #DAX #DataViz #GitHubProjects #Machine Learning #DeepLearning**
